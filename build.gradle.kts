@@ -9,7 +9,7 @@ plugins {
 }
 
 group = "dev.sparky200"
-version = "1.0-SNAPSHOT"
+version = "1.7.10"
 
 repositories {
     mavenCentral()
