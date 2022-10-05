@@ -5,7 +5,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 plugins {
     kotlin("jvm") version "1.7.10"
     id("com.github.johnrengelman.shadow") version "7.1.2"
-    id("dev.sparky200.necesse-build-dsl") version "1.1.1"
+    id("dev.sparky200.necesse-build-dsl") version "1.1.2"
 }
 
 group = "dev.sparky200"
